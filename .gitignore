@@ -1,0 +1,29 @@
+# python
+*.py[cod]
+__pycache__/
+.env
+
+# sqlite
+*.sqlite3
+
+# unit test coverage reports
+.coverage
+
+# node packages
+node_modules/
+
+# generated files
+ui/dist/
+
+# IDEA IDEs
+.idea/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# app specific
+db/data
+
+# OS
+.DS_Store
