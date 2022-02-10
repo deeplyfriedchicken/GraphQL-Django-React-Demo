@@ -2,7 +2,7 @@
 autopep8==1.4.4
 
 # Core Dependencies
-Django==2.2.1
+Django==2.2.27
 django-cors-headers==3.0.1
 django-graphql-jwt==0.2.1
 graphene-django==2.2.0
